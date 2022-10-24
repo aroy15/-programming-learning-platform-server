@@ -1,0 +1,25 @@
+[
+    {
+        "_id":"ed_01",
+        "course_title":"Complete Python Developer in 2022",
+        "image_url":"https://raw.githubusercontent.com/aroy15/image-store/master/programming/python.webp",
+        "details_overview":[
+            "Become a professional Python Developer and get hired",
+            "Learn Object Oriented Programming",
+            "Build 12+ real world Python projects you can show off",
+            "Learn Machine Learning with Python",
+            "Learn Data Science - Analyze and Visualize Data",
+            "Use Python to process: Images, CSVs, PDFs, and other Files",
+            "Use Python to send Emails and SMS",
+            "Learn to Test, Debug and Handle Errors in your Python programs",
+            "Learn to use Selenium and Python in Automation",
+            "Master modern Python 3.10(latest) fundamentals as well as advanced topics",
+            "Learn Function Programming",
+            "Learn how to use Python in Web Development",
+            "Build a Machine Learning Model",
+            "Build a professional Portfolio Website",
+            "Build a Web Scraper with Python and BeautifulSoup",
+            "Use Python to build a Twitter bot"
+        ]
+    }
+]
