@@ -3,6 +3,7 @@
         "_id":"ed_01",
         "course_title":"Complete Python Developer in 2022",
         "image_url":"https://raw.githubusercontent.com/aroy15/image-store/master/programming/python.webp",
+        "ratings":"4.5",
         "overview_title":"Course Overview",
         "details_overview":[
             "Become a professional Python Developer and get hired",
@@ -22,5 +23,108 @@
             "Build a Web Scraper with Python and BeautifulSoup",
             "Use Python to build a Twitter bot"
         ]
+    },
+    {
+        "_id":"ed_02",
+        "course_title":"C# 10 | Ultimate Guide - Beginner to Advanced | Master class",
+        "image_url":"https://raw.githubusercontent.com/aroy15/image-store/master/programming/csharp.webp",
+        "ratings":"4.7",
+        "overview_title":"Course Overview",
+        "details_overview":[
+            "Confidently speak about most of the essential concepts of C#",
+            "Solve most common bugs and issues in C# applications",
+            "Create C# Apps from scratch and scale it up to any level",
+            "Add C# to your prior knowledge of any technology (Asp .Net Core, Xamarin, Unity etc.), to get new career opportunities",
+            "Crack C# job interviews easier",
+            "Understand further technologies of .net (in future), such as Asp .Net, Asp .Net Core, Xamarin etc. easier, with strong-base knowledge of C#",
+            "Write OOP code easier with industry-standards and best practices like a Pro"
+        ]
+    },
+    {
+        "_id":"ed_03",
+        "course_title":"Beginning C++ Programming - From Beginner to Beyond",
+        "image_url":"https://raw.githubusercontent.com/aroy15/image-store/master/programming/cplusplus.webp",
+        "ratings":"4.6",
+        "overview_title":"Course Overview",
+        "details_overview":[
+            "Learn to program with one of the most powerful programming languages that exists today, C++.",
+            "Learn Modern C++ rather than an obsolete version of C++ that most other courses teach",
+            "Learn C++ using a proven curriculum that covers more material than most C++ university courses",
+            "Includes Quizzes, Live Coding Exercises, Challenge Coding Exercises and Assignments",
+            "New Section: Learn all about using C++ Lambda Expressions",
+            "Obtain the key concepts of programming that will also apply to other programming languages",
+            "Learn C++ features from basic to more advanced such as inheritance and polymorphic functions",
+            "Learn C++ from an experienced university full professor who has been using and teaching C++ for more than 25 years",
+            "New Section: Learn to use Visual Studio Code with C++"
+        ]
+    },
+    {
+        "_id":"ed_04",
+        "course_title":"Understanding TypeScript - 2022 Edition",
+        "image_url":"https://raw.githubusercontent.com/aroy15/image-store/master/programming/typescript.webp",
+        "ratings":"4.8",
+        "overview_title":"Course Overview",
+        "details_overview":[
+            "Use TypeScript and its Features like Types, ES6 Support, Classes, Modules, Interfaces and much more in any of their Projects",
+            "Why TypeScript offers a real advantage over vanilla JavaScript",
+            "Learn how to combine TypeScript with ReactJS or NodeJS / Express",
+            "Understand what TypeScript really is about and how it works",
+            "Learn TypeScript both in theory as well as applied to real use-cases and projects"
+        ]
+    },
+    {
+        "_id":"ed_05",
+        "course_title":"The Complete 2021 PHP Full Stack Web Developer Bootcamp",
+        "image_url":"https://raw.githubusercontent.com/aroy15/image-store/master/programming/php.webp",
+        "ratings":"5.0",
+        "overview_title":"Course Overview",
+        "details_overview":[
+            "Become Web Developer and Start Earning",
+            "Become Freelancer Web developer on Fiverr or UpWork",
+            "Start your own online Business",
+            "Be proficient with databases and server-side languages with PHP and MySQL",
+            "Apply for Job as Junior Web Developer",
+            "Build Website with WordPress, PHP and Laravel and Sell Online",
+            "Learn to build websites",
+            "Become a front-end and Back-end developer - Complete Full Stack Developer"
+        ]
+    },
+    {
+        "_id":"ed_06",
+        "course_title":"Java Programming for Complete Beginners",
+        "image_url":"https://raw.githubusercontent.com/aroy15/image-store/master/programming/java.webp",
+        "ratings":"4.9",
+        "overview_title":"Course Overview",
+        "details_overview":[
+            "Basics of Java Programming - Expressions, Variables, and Printing Output",
+            "Java Operators - Java Assignment Operator, Relational and Logical Operators, Short Circuit Operators",
+            "Java Conditionals and If Statement",
+            "Methods - Parameters, Arguments, and Return Values",
+            "Object-Oriented Programming - Class, Object, State, and Behavior",
+            "Basics of OOPS - Encapsulation, Abstraction, Inheritance, and Polymorphism",
+            "Basics about Java Data Types - Casting, Operators, and More",
+            "Java Built-in Classes - BigDecimal, String, Java Wrapper Classes",
+            "Conditionals with Java - If Else Statement, Nested If Else, Java Switch Statement, Java Ternary Operator",
+            "Loops - For Loop, While Loop in Java, Do While Loop, Break and Continue",
+            "Immutability of Java Wrapper Classes, String and BigDecimal",
+            "Java Dates - Introduction to LocalDate, LocalTime and LocalDateTime",
+            "Java Array and ArrayList - Java String Arrays, Arrays of Objects, Primitive Data Types, toString and Exceptions",
+            "Introduction to Variable Arguments",
+            "Basics of Designing a Class - Class, Object, State and Behavior. Deciding State and Constructors",
+            "Understanding Object Composition and Inheritance",
+            "Java Abstract Class and Interfaces. Introduction to Polymorphism",
+            "Java Collections - List Interface(ArrayList, LinkedList and Vector), Set Interface (HashSet, LinkedHashSet and TreeSet), Queue Interface (PriorityQueue) and Map Interface (HashMap, HashTable, LinkedHashMap and TreeMap() - Compare, Contrast and Choose",
+            "Generics - Why do we need Generics? Restrictions with extends and Generic Methods, WildCards - Upper Bound and Lower Bound",
+            "Functional Programming - Lambda Expression, Stream and Operations on a Stream (Intermediate Operations - Sort, Distinct, Filter, Map and Terminal Operations - max, min, collect to List), Functional Interfaces - Predicate Interface, Consumer Interface, Function Interface for Mapping, Method References - static and instance methods",
+            "Introduction to Threads and MultiThreading - Need for Threads",
+            "Implementing Threads - Extending Thread Class and Implementing Runnable Interface",
+            "Use Python to process: Images, CSVs, PDFs, and other Files",
+            "States of a Thread and Communication between Threads",
+            "Introduction to Executor Service - Customizing the number of Active Threads. Returning a Future, invokeAll, and invokeAny",
+            "Introduction to Exception Handling - Your Thought Process during Exception Handling. try, catch, and finally. Exception Hierarchy - Checked Exceptions vs Unchecked Exceptions. Throwing an Exception. Creating and Throwing a Custom Exception - CurrenciesDoNotMatchException. Try with Resources - New Feature in Java 7",
+            "List files and folders in Directory with Files list method, File walk method and find methods. Read and write from a File"
+        ]
     }
 ]
+
+
