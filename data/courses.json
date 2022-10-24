@@ -3,6 +3,7 @@
         "_id":"ed_01",
         "course_title":"Complete Python Developer in 2022",
         "image_url":"https://raw.githubusercontent.com/aroy15/image-store/master/programming/python.webp",
+        "overview_title":"Course Overview",
         "details_overview":[
             "Become a professional Python Developer and get hired",
             "Learn Object Oriented Programming",
